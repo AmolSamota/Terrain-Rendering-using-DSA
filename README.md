@@ -7,6 +7,8 @@ I have implemented 2 terrian Rendering methods. First one is a simple 2D demonst
 Snapshots:
 Delaunay Triangulation:
 
+![live](https://user-images.githubusercontent.com/66271249/103745464-89275380-5025-11eb-9edc-26157e230ea2.mp4)
+
 ![delaunay](https://user-images.githubusercontent.com/66271249/93599246-71c34c80-f9db-11ea-9193-b1bcadeccb02.PNG)
 
 ROAM
